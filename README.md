@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Haseeb Zaheer</h1>
 <h3 align="center">A passionate C++ Developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **JavaScript, NodeJs, ReactJs, Express**
+- 🌱 I’m currently learning **Git, Python, React**
 
 - 👨‍💻 All of my projects are available at [W.I.P](W.I.P)
 

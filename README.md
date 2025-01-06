@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haseeb Zaheer</h1>
-<h3 align="center">A passionate C++ Developer from Pakistan.</h3>
+<h3 align="center">A passionate Software Developer from Pakistan.</h3>
 
 - 🌱 I’m currently learning **Git, Python, React**
 

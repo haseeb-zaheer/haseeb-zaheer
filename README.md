@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Haseeb Zaheer</h1>
 <h3 align="center">A passionate Software Developer from Pakistan.</h3>
 
-- 🌱 I’m currently learning **Git, Python, React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [W.I.P](W.I.P)
 
 - 📝 I write articles when I can on [https://www.linkedin.com/in/muhammad-haseeb-zaheer/](https://www.linkedin.com/in/muhammad-haseeb-zaheer/)
 
-- 💬 Ask me about **C++, C, HTML, CSS, SQL, Python**
+- 💬 Ask me about **Python, Django, Git, C++, C, HTML, CSS, SQL**
 
 - 📫 How to reach me **haseebzaheer26@gmail.com**
 

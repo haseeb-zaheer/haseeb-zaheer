@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **agentic workflows, multi-agent systems, and AI-powered automation at 3E**
 - 🌱 I'm continuously exploring **Agentic AI and AI in general**
-- 👨‍💻 All of my projects are available at [W.I.P](W.I.P)
+- 👨‍💻 All of my projects are available at [haseebzaheer.dev](https://www.haseebzaheer.dev/)
 - 📝 I write articles when I can on [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-zaheer/)
 - 💬 Ask me about **Python, FastAPI, Agentic AI, Multi-Agent Systems, AWS Lambda, Docker, Next.js, Django, Git, SQL**
 - 📫 How to reach me **haseebzaheer26@gmail.com**
